@@ -9,4 +9,5 @@ body{
 .header-heading{
   font-family: 'Bigelow Rules';
   font-size: 72px;
+  color: rgba(6,80,168,1);
 }
